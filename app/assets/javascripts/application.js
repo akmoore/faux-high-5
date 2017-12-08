@@ -13,6 +13,8 @@
 //= require jquery3
 //= require popper
 //= require bootstrap
+//= require moment.min
+//= require bootstrap-datetimepicker.min
 //= require rails-ujs
 //= require turbolinks
 //= require trix
